@@ -1,0 +1,5 @@
+banks,mode,auprc,precision,recall
+2,mule-pattern (non-IID),0.226,0.101,0.773
+3,mule-pattern (non-IID),0.225,0.099,0.778
+4,mule-pattern (non-IID),0.225,0.097,0.786
+5,mule-pattern (non-IID),0.226,0.1,0.778

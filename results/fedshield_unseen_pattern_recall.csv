@@ -1,0 +1,4 @@
+bank,unseen_mules,recall_local,recall_federated
+Bank A,371,0.755,0.774
+Bank B,230,0.748,0.739
+Bank C,401,0.781,0.786
